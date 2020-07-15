@@ -1,3 +1,10 @@
+.friendo {
+  margin-bottom: 30px;
+}
+.friendo:last-child {
+  margin-bottom: 70px;
+}
+
 .friend {
   display: flex;
   justify-content: space-between;
